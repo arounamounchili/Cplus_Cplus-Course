@@ -23,6 +23,7 @@ int main()
   double resultat = soustraction (x,y); 
 
   cout << " le resultat est : " << resultat << endl ;
+  
 }
 
 
