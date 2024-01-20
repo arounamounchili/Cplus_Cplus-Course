@@ -7,6 +7,10 @@ double soustraction (double a , double b){
 return a-b ; 
 
 }
+float division(float a, float b)
+{
+    return a / b;
+}
 
 int main()
 {
@@ -23,6 +27,9 @@ int main()
   double resultat = soustraction (x,y); 
 
   cout << " le resultat est : " << resultat << endl ;
+
+   std::cout << "Welconne to Minteligencia!" << endl;
+    cout << "Le resultat de la division est: " << division(12.0, 4.0) << endl;
   
 }
 
