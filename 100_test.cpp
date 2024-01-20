@@ -7,18 +7,7 @@ int main()
   std::cout << "Hello world!" << endl;
 }
 
-
-
-int addition() 
+int addition(int number1, int number2) 
 {
-    //fonction d'addition
-    int number1 = 5;
-    int number2 = 7;
-    
-    int resultat = addition(number1, number2);
-    
-    // Affichage du résultat
-    std::cout << "Le résultat de l'addition est : " << resultat << std::endl;
-
-    return 0;
+  return number1 + number2;
 }
