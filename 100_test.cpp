@@ -7,11 +7,22 @@ double soustraction (double a , double b){
 return a-b ; 
 
 }
+<<<<<<< HEAD
+
+
+=======
+>>>>>>> 12a9c7e8591f457e3e0a3dc5c37bbf7d6949c726
 float division(float a, float b)
 {
     return a / b;
 }
 
+<<<<<<< HEAD
+int addition(int number1, int number2) 
+{
+  return number1 + number2;
+}
+=======
 int main()
 {
   //std::cout << "Hello world!" << endl;
@@ -35,3 +46,4 @@ int main()
 }
 
 
+>>>>>>> 12a9c7e8591f457e3e0a3dc5c37bbf7d6949c726
