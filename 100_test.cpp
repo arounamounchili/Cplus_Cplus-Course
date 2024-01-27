@@ -26,8 +26,9 @@ int main()
 
     double resultat = soustraction(x, y);
 
-    cout << " le resultat est : " << resultat << endl;
+    double resultat = soustraction(x, y);
 
     std::cout << "Welconne to Minteligencia!" << endl;
+
     cout << "Le resultat de la division est: " << division(12.0, 4.0) << endl;
 }

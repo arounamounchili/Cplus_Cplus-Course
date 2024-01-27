@@ -1,0 +1,74 @@
+[33mcommit 12a9c7e8591f457e3e0a3dc5c37bbf7d6949c726[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: aac1dec 630fc9b
+Author: Gueche <nkwonkamabraham@yahoo.fr>
+Date:   Sat Jan 20 12:22:22 2024 +0100
+
+    conflit regle
+
+[33mcommit aac1dec3d71f20078ab15777d4019ad98ffcdb1f[m
+Author: Gueche <nkwonkamabraham@yahoo.fr>
+Date:   Sat Jan 20 11:48:43 2024 +0100
+
+    add fonction  soustraction
+
+[33mcommit 902938fa5322a7a44cebf966916b9bcff63bb7b5[m
+Author: Gueche <nkwonkamabraham@yahoo.fr>
+Date:   Sat Jan 20 11:47:25 2024 +0100
+
+    add fonction  soustraction
+
+[33mcommit 630fc9b9c46a2b0075165bcf6aa73af21b371def[m
+Author: arounamounchili <virtual.power.virtual@gmail.com>
+Date:   Sat Jan 20 11:24:00 2024 +0100
+
+    add function division
+
+[33mcommit 6216164f70746534ed4f379634aa4cdd09e0ee49[m
+Author: arounamounchili <55673269+arounamounchili@users.noreply.github.com>
+Date:   Sat Jan 20 10:46:22 2024 +0100
+
+    Update 100_test.cpp
+    
+    hello world message ajouté
+
+[33mcommit beacc825870429c2c8e290f5b9606c88876e1915[m
+Author: arounamounchili <virtual.power.virtual@gmail.com>
+Date:   Sat Jan 20 10:42:55 2024 +0100
+
+    j'ai supprimer certaines ligne
+
+[33mcommit 98f96c2cf6ef66fd87d7b1b702017e9514dbc6ad[m
+Author: arounamounchili <virtual.power.virtual@gmail.com>
+Date:   Tue Dec 12 20:35:29 2023 +0100
+
+    course content is added
+
+[33mcommit 9732bb88940468788c9deeed7b2428d44b73d1e2[m
+Author: arounamounchili <virtual.power.virtual@gmail.com>
+Date:   Tue Dec 12 20:31:28 2023 +0100
+
+    mores messages are added
+
+[33mcommit 24782bbe31a8983cca1b38975fe6acbcf4961bec[m[33m ([m[1;31morigin/fichier1[m[33m)[m
+Author: arounamounchili <virtual.power.virtual@gmail.com>
+Date:   Tue Dec 12 20:24:31 2023 +0100
+
+    deuxieme message ajouter
+
+[33mcommit b0dead9ed79b573b873b6f52e446548799ae1642[m
+Author: arounamounchili <virtual.power.virtual@gmail.com>
+Date:   Tue Dec 12 20:17:25 2023 +0100
+
+    fonction main ajouter avec le message hello world
+
+[33mcommit e0c49a6c9b9d617e8a8003edebc22a76f20c0543[m
+Author: arounamounchili <virtual.power.virtual@gmail.com>
+Date:   Tue Dec 12 20:08:01 2023 +0100
+
+    fichier main.cpp a ete cree
+
+[33mcommit 025b91e7867abf88a0eeed5988785e7e40807da3[m
+Author: arounamounchili <55673269+arounamounchili@users.noreply.github.com>
+Date:   Tue Dec 12 19:45:47 2023 +0100
+
+    Initial commit
