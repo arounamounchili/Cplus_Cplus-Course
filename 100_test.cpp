@@ -24,12 +24,13 @@ int main()
   cout << "entre le nombre 2 " << endl ;
   cin>> y ; 
   
-  double resultat = soustraction (x,y); 
+  double resultat = soustraction (x,y);  
 
   cout << " le resultat est : " << resultat << endl ;
 
-   std::cout << "Welconne to Minteligencia!" << endl;
-    cout << "Le resultat de la division est: " << division(12.0, 4.0) << endl;
+  std::cout << "Welconne to Minteligencia!" << endl;
+
+  cout << "Le resultat de la division est: " << division(12.0, 4.0) << endl;
   
 }
 
